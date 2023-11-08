@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Will and I am an experienced senior software engineer, engineering leader, and just an all around curious person. I have a demonstrated history of helping software teams shorten feedback loops, ship software, and stay happy. I can own critical business systems and lead strategic planning, roadmapping, and team planning. I believe small, empowered teams make employees happy and quality software products that delight users follows as a result. 
+  Hi, my name is Will and I am an experienced senior software engineer, engineering leader, and an all around curious person. I have a demonstrated history of helping software teams shorten feedback loops, ship software, and stay happy. I can own critical business systems and lead strategic planning, roadmapping, and team planning. I believe small, empowered teams make employees happy and quality software products that delight users follows as a result. 
 
 
 content:
@@ -56,13 +56,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: 1942 Radio Modernization
+        link: github.com/TildeWill/radio_project
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Radio Project github repo
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/TildeWill/radio_project
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
