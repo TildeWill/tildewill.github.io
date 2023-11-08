@@ -31,9 +31,9 @@ linkedin_username: willread
 
 # Additional icon links
 additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+- title: Board Game Arena
+  icon: fas fa-dice
+  url: https://boardgamearena.com/player?id=94728286
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -104,7 +104,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
-      - Gaming
+      - Board Gaming (Wingspan, Catan, Heat, Power Grid)
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
