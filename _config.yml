@@ -58,11 +58,12 @@ content:
       - layout: top-middle
         title: 1942 Radio Modernization
         link: github.com/TildeWill/radio_project
+        icon: fab fa-github
         # link_text: Project Website
-        additional_links:
-          - title:  Radio Project github repo
-            icon: fab fa-github
-            url: github.com/TildeWill/radio_project
+#        additional_links:
+#          - title:  Radio Project github repo
+#            icon: fab fa-github
+#            url: github.com/TildeWill/radio_project
         quote: >
           Something old made new again
         description: | 
@@ -73,7 +74,8 @@ content:
       - layout: top-middle
         title: Reteamer
         link: github.com/Reteamer/reteamer
-        link_text: Project Website
+        icon: fab fa-github
+#        link_text: Application Website
 
         quote: >
           How can I plan for staffing changes on modern software teams?
@@ -93,7 +95,7 @@ content:
           
           I came across the ChocV keyboard an fell in love with the low profile, compact size, ortholinear key layout, and simple design. It is a 36-key keyboard and instead of the traditional QWERTY layout uses a layout called [Miryoku by Manna Harbour](https://github.com/manna-harbour/miryoku){:target="_blank"}. It also incorporates six "layers" (think of a layer like your shift key which gives you a whole new set of characters), and through all this it keeps my fingers on the home row more than I could have ever imagined. Even with the well documented repo of the ChocV I still needed to learn a lot about mechanical keyboards, and for that I turned to an old colleague who was known for having a custom mechanical keyboard or "keeb" as they're often called. Through him I learned about the switches - clicky, tactile, linear, silent - and keycaps of which there are a lot, membranes, firmware frameworks, vendors that might be able to sell me what I need, and forums where I might find more help. I got a lot of help from the ChocV creator too when it came time to flash the firmware and debug my work. I ended up writing about how [this project really took a community to bootstrap my knowledge](https://www.linkedin.com/posts/willread_i-built-a-keyboard-but-that-is-a-lie-when-activity-7120579022039719936-q5lh?utm_source=share&utm_medium=member_desktop){:target="_blank"}.  
           
-          In the end I have a functioning keyboard that's pretty easy to travel with. I not only upped my solder game but I also learned how to use solder paste to connect surface mount devices (SMD). While this rigid, unibody keyboard won't address my dreams of keyboard pants, I do plan to take the next step and build a [Stront](https://github.com/zzeneg/stront){:target="_blank"} which will teach me about split keyboards and will incorporate extra inputs like a track pad and scroll wheels. After that, maybe it'll be flexible PCBs, [incorporating magnets](https://evantravers.com/articles/2023/04/06/magsafe-tenting-and-wearable-keyboards/), or looking into e-textile techniques to sew soft switches into my leg wear. 
+          In the end I have a functioning keyboard that's pretty easy to travel with. I not only upped my solder game but I also learned how to use solder paste to connect surface mount devices (SMD). While this rigid, unibody keyboard won't address my dreams of keyboard pants, I do plan to take the next step and build a [Stront](https://github.com/zzeneg/stront){:target="_blank"} which will teach me about split keyboards and will incorporate extra inputs like a track pad and scroll wheels. After that, maybe it'll be flexible PCBs, [incorporating magnets](https://evantravers.com/articles/2023/04/06/magsafe-tenting-and-wearable-keyboards/){:target="_blank"}, or looking into e-textile techniques to sew soft switches into my leg wear. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
