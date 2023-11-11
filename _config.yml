@@ -143,12 +143,12 @@ content:
       Alongside my interests in leading people and software engineering some of my other interests and hobbies are:
       - Rock climbing - This is how I trick my brain into being okay with exercise
       - Board Gaming (Wingspan, Catan, Heat, Power Grid) and Escape Rooms - My thinking is that puzzles keep the mind young
-      - Homesteading, Off grid living, and Earth Ships - someday I want to build a sustainable home that is self reliant
+      - Homesteading, Off grid living, and Earth Ships - someday I want to build a sustainable home that is self sufficient
       - Backpacking - Being in nature and away from creature comforts is one of the main ways I stay appreciative of life
       - Home repair - I love fixing people's homes including drywall, small electrical work, and plumbing, just ask!
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
